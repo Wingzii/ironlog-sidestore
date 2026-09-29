@@ -19,9 +19,9 @@ sidestore://source?url=https://raw.githubusercontent.com/Wingzii/ironlog-sidesto
 ## What lives here
 
 - `apps.json` — the AltSource manifest
-- `ironlog-v1.0.ipa` — current signed build
-- `icon.png` / `header.png` — source branding (placeholders; drop in your own)
+- `ironlog-v929.ipa` — current signed build (v929, commit e2f4078, 77 MB)
+- `icon.png` / `header.png` — source branding (extracted from the app bundle, upscaled)
 
 ## Updating
 
-When a new build is ready: replace `ironlog-v1.0.ipa`, bump the version fields in `apps.json`, and `git push`. SideStore picks up the new version on next refresh.
+When a new build is ready: replace `ironlog-v<N>.ipa`, bump the `version` / `versionDate` / `size` / `downloadURL` / `versionDescription` fields in `apps.json`, and `git push`. SideStore picks up the new version on next refresh.
