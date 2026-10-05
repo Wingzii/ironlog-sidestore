@@ -14,7 +14,7 @@
       "subtitle": "Mr Big Evolution workout tracker",
       "version": "936.0",
       "shortVersion": "936.0",
-      "versionDate": "2026-10-05T15:49:02Z",
+      "versionDate": "2026-10-05T15:49:56Z",
       "versionDescription": "v936 — CORS fix for in-app update check on iPhone (WKWebView blocked the cross-origin fetch — 'Load failed'). Update button now works natively.",
       "size": 75097502,
       "downloadURL": "https://raw.githubusercontent.com/Wingzii/ironlog-sidestore/main/ironlog-v936.ipa",
